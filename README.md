@@ -111,7 +111,6 @@ This project presents a secure multiparty communication protocol leveraging the 
 ## **Contributors**
 - Md. Rayhan Kabir Khan  
 - Md. Fahim Shahoriar Titu  
-- M.R.C. Mahdy  
 
 ---
 
@@ -120,6 +119,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## **Acknowledgments**
-This project was supported by the Department of Electrical and Computer Engineering at North South University. The IBM Quantum platform was instrumental in simulating the W-state circuits and security assessments.
-```  
+ 
